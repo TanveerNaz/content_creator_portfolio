@@ -1,8 +1,5 @@
 # content_creator_portfolio
 Content creator portfolio featuring social posts, columns, light humor, AI &amp; e-commerce content, video-editing posts, and Canva visuals for Facebook, LinkedIn, Instagram &amp; TikTok.
-### AI & Productivity Tools
-# Content Creator Portfolio
-
 A curated portfolio showcasing my work as a content creator across social, professional, and visual platforms.
 
 My content combines writing, personal observations, social commentary, technical knowledge, and visual communication. This repository contains selected examples of my work rather than a complete archive of my social media activity.
@@ -18,18 +15,17 @@ A selection of my original columns and social-commentary writing published on Fa
 These writings cover everyday observations, social topics, personal perspectives, and occasionally a light touch of humor where it naturally fits the subject.
 
 **Selected Columns:**
-→ [View Social Columns]([./01_Social_Columns/](https://www.facebook.com/share/p/1BbEX7FDfU/)
- [View Social Columns]([./01_Social_Columns/](https://www.facebook.com/share/p/19hi5qoFcg/)
- [View Social Columns]([./01_Social_Columns/](https://www.facebook.com/share/p/1F9tD3cSYs/)
- [View Social Columns]([./01_Social_Columns/](https://www.facebook.com/share/r/1DQ7oetKMF/)
- [View Social Columns]([./01_Social_Columns/](https://www.facebook.com/share/p/18eGSUbgBC/)
- [View Social Columns]([./01_Social_Columns/](https://www.facebook.com/share/p/1CWvu4Yc4R/)
- [View Social Columns]([./01_Social_Columns/](https://www.facebook.com/share/p/1Dy946Gv8b/)
- [View Social Columns]([./01_Social_Columns/](https://www.facebook.com/share/r/1B541LSbrC/)
- [View Social Columns]([./01_Social_Columns/](https://www.facebook.com/share/p/1DsH8rb6dN/)
- [View Social Columns]([./01_Social_Columns/](https://www.facebook.com/share/p/1CiufigxG6/)
- [View Social Columns]([./01_Social_Columns/](https://www.facebook.com/share/p/1C7ECPy7in/)
- [View Social Columns]([./01_Social_Columns/](https://www.facebook.com/share/p/1QvwjpAjY9/) 
+→ [View Social Columns]([./01_Social_Columns/] "حمیری"، "گوگو" اور میرے ادھورے کالم کا سوگ" (https://www.facebook.com/share/p/1BbEX7FDfU/)
+ [View Social Columns]([./01_Social_Columns/] محنت کسان کی، ترقی دوسروں کی؟ آخر کب تک؟ (https://www.facebook.com/share/p/19hi5qoFcg/)
+ [View Social Columns]([./01_Social_Columns/] ماں بولی کا قصور کیا ہے؟ (https://www.facebook.com/share/p/1F9tD3cSYs/)
+ [View Social Columns]([./01_Social_Columns/] school friends haj return (https://www.facebook.com/share/r/1DQ7oetKMF/)
+ [View Social Columns]([./01_Social_Columns/] اک سی ملنگی ڈاکو۔ (https://www.facebook.com/share/p/18eGSUbgBC/)
+ [View Social Columns]([./01_Social_Columns/] پنجاب ونڈیا جا رہیا اے تے پنجابی تماشہ ویکھ رہیا اے (https://www.facebook.com/share/p/1Dy946Gv8b/)
+ [View Social Columns]([./01_Social_Columns/] دفتر کے دوستوں کے رشتہ داروں کی وفات پر ظہر تعزیت (https://www.facebook.com/share/r/1B541LSbrC/)
+ [View Social Columns]([./01_Social_Columns/] سیرتِ طیبہ اور ہمارے روزمرہ اخلاق (https://www.facebook.com/share/p/1DsH8rb6dN/)
+ [View Social Columns]([./01_Social_Columns/] ماڑی سی تے لڑی کیوں سی (Political):(https://www.facebook.com/share/p/1CiufigxG6/)
+ [View Social Columns]([./01_Social_Columns/] مفت بجلی کے یونٹس کا خاتمہ (https://www.facebook.com/share/p/1C7ECPy7in/)
+ [View Social Columns]([./01_Social_Columns/] کراچی سے سلیکون ویلی تک: ایک نوجوان کی کامیابی (https://www.facebook.com/share/p/1QvwjpAjY9/) 
      
     
 ### 2. Visual Content
