@@ -15,7 +15,8 @@ A selection of my original columns and social-commentary writing published on Fa
 These writings cover everyday observations, social topics, personal perspectives, and occasionally a light touch of humor where it naturally fits the subject.
 
 **Selected Columns:**
-→ [View Social Columns]([./01_Social_Columns/] "حمیری"، "گوگو" اور میرے ادھورے کالم کا سوگ" (https://www.facebook.com/share/p/1BbEX7FDfU/)
+[View Social Columns]([./01_Social_Columns/] "کھرک" (https://www.facebook.com/share/p/19fSAy6kzG/)
+[View Social Columns]([./01_Social_Columns/] "حمیری"، "گوگو" اور میرے ادھورے کالم کا سوگ" (https://www.facebook.com/share/p/1BbEX7FDfU/)
  [View Social Columns]([./01_Social_Columns/] محنت کسان کی، ترقی دوسروں کی؟ آخر کب تک؟ (https://www.facebook.com/share/p/19hi5qoFcg/)
  [View Social Columns]([./01_Social_Columns/] ماں بولی کا قصور کیا ہے؟ (https://www.facebook.com/share/p/1F9tD3cSYs/)
  [View Social Columns]([./01_Social_Columns/] school friends haj return (https://www.facebook.com/share/r/1DQ7oetKMF/)
@@ -37,6 +38,8 @@ The collection demonstrates different approaches to presenting ideas visually, i
 **Visual Samples:**
 → [View Visual Content](./02_Visual_Content/) <img width="1080" height="1350" alt="image" src="https://github.com/user-attachments/assets/e1abf935-9dfc-408c-9277-6a55dfd78b28" />
 
+
+<img width="1080" height="1350" alt="Khurak" src="https://github.com/user-attachments/assets/baad175b-7347-46fa-ac04-629b3775daaa" />
 <img width="1080" height="1350" alt="image" src="https://github.com/user-attachments/assets/c3722cd9-3f66-46f8-9553-b92a2fee16bf" />
 <img width="1080" height="1350" alt="image" src="https://github.com/user-attachments/assets/2f35f92a-c2d9-4d43-b541-ce8f257149dc" />
 <img width="1080" height="1350" alt="image" src="https://github.com/user-attachments/assets/cdeb1c9c-9e2c-43f5-863b-5d0b52b97e11" />
