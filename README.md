@@ -128,6 +128,6 @@ For my latest technical and professional content, please visit my:
 
 **LinkedIn:** [Add LinkedIn Profile Link]
 
-**Facebook:** [Add Facebook Profile Link]
+**Facebook:** [[Add Facebook Profile Link](https://www.facebook.com/share/194AJqKE4x/)]
 
 * 
