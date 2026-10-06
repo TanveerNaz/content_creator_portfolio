@@ -60,9 +60,9 @@ Alongside my social and visual content, I regularly create posts on:
 
 I have published a substantial amount of this content on LinkedIn and Facebook. Rather than duplicating all of those posts in this repository, my profiles provide the broader and continuously updated collection of my technical content.
 
-**LinkedIn:** [[Add LinkedIn Profile Link (https://www.linkedin.com/in/its-tanveer-naz?utm_source=share_via&utm_content=profile&utm_medium=member_android)]
+**LinkedIn:** (https://www.linkedin.com/in/its-tanveer-naz)
 
-**Facebook:** [Add Facebook Profile Link] https://www.facebook.com/share/19i38WG17h/
+**Facebook:** (https://www.facebook.com/share/19i38WG17h/)
 
 ---
 
