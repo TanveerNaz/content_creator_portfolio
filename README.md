@@ -24,7 +24,7 @@ These writings cover everyday observations, social topics, personal perspectives
 <br> [View Social Columns]([پنجاب ونڈیا جا رہیا اے تے پنجابی تماشہ ویکھ رہیا اے] (https://www.facebook.com/share/p/1Dy946Gv8b/)
 <br> [View Social Columns]([دفتر کے دوستوں کے رشتہ داروں کی وفات پر تعزیت]  (https://www.facebook.com/share/r/1B541LSbrC/)
 <br> [View Social Columns]([سیرتِ طیبہ اور ہمارے روزمرہ اخلاق]  (https://www.facebook.com/share/p/1DsH8rb6dN/)
-<br> [View Social Columns]([ماڑی سی تے لڑی کیوں سی Political](https://www.facebook.com/share/p/1CiufigxG6/)
+<br> [View Social Columns]([ماڑی سی تے لڑی کیوں سی Political] (https://www.facebook.com/share/p/1CiufigxG6/)
 <br> [View Social Columns]([مفت بجلی کے یونٹس کا خاتمہ]  (https://www.facebook.com/share/p/1C7ECPy7in/)
 <br> [View Social Columns]([کراچی سے سلیکون ویلی تک: ایک نوجوان کی کامیابی]  (https://www.facebook.com/share/p/1QvwjpAjY9/) 
      
@@ -39,14 +39,14 @@ The collection demonstrates different approaches to presenting ideas visually, i
 → [View Visual Content](./02_Visual_Content/) <img width="1080" height="1350" alt="image" src="https://github.com/user-attachments/assets/e1abf935-9dfc-408c-9277-6a55dfd78b28" />
 
 
-<img width="1080" height="1350" alt="Khurak" src="https://github.com/user-attachments/assets/baad175b-7347-46fa-ac04-629b3775daaa" />
-<img width="1080" height="1350" alt="image" src="https://github.com/user-attachments/assets/c3722cd9-3f66-46f8-9553-b92a2fee16bf" />
-<img width="1080" height="1350" alt="image" src="https://github.com/user-attachments/assets/2f35f92a-c2d9-4d43-b541-ce8f257149dc" />
-<img width="1080" height="1350" alt="image" src="https://github.com/user-attachments/assets/cdeb1c9c-9e2c-43f5-863b-5d0b52b97e11" />
-<img width="1066" height="1599" alt="image" src="https://github.com/user-attachments/assets/160d48c6-0c82-4111-8667-42eb58916348" />
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/030ad304-9759-45a9-b752-c976be9aca7c" />
-<img width="842" height="1264" alt="image" src="https://github.com/user-attachments/assets/de85757e-3287-4d2c-b0fa-df0b4a08bc6c" />
-<img width="843" height="1264" alt="image" src="https://github.com/user-attachments/assets/d59dfb40-38e1-4651-9f24-e2805c72b897" />
+<br> <img width="1080" height="1350" alt="Khurak" src="https://github.com/user-attachments/assets/baad175b-7347-46fa-ac04-629b3775daaa" />
+<br> <img width="1080" height="1350" alt="image" src="https://github.com/user-attachments/assets/c3722cd9-3f66-46f8-9553-b92a2fee16bf" />
+<br> <img width="1080" height="1350" alt="image" src="https://github.com/user-attachments/assets/2f35f92a-c2d9-4d43-b541-ce8f257149dc" />
+<br> <img width="1080" height="1350" alt="image" src="https://github.com/user-attachments/assets/cdeb1c9c-9e2c-43f5-863b-5d0b52b97e11" />
+<br> <img width="1066" height="1599" alt="image" src="https://github.com/user-attachments/assets/160d48c6-0c82-4111-8667-42eb58916348" />
+<br> <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/030ad304-9759-45a9-b752-c976be9aca7c" />
+<br> <img width="842" height="1264" alt="image" src="https://github.com/user-attachments/assets/de85757e-3287-4d2c-b0fa-df0b4a08bc6c" />
+<br> <img width="843" height="1264" alt="image" src="https://github.com/user-attachments/assets/d59dfb40-38e1-4651-9f24-e2805c72b897" />
 ---
 
 ## Technical Content
