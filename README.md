@@ -62,7 +62,7 @@ I have published a substantial amount of this content on LinkedIn and Facebook. 
 
 **LinkedIn:** [[Add LinkedIn Profile Link (https://www.linkedin.com/in/its-tanveer-naz?utm_source=share_via&utm_content=profile&utm_medium=member_android)]
 
-**Facebook:** [Add Facebook Profile Link](https://www.linkedin.com/in/its-tanveer-naz?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+**Facebook:** [Add Facebook Profile Link] https://www.facebook.com/share/19i38WG17h/
 
 ---
 
