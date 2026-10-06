@@ -15,8 +15,8 @@ A selection of my original columns and social-commentary writing published on Fa
 These writings cover everyday observations, social topics, personal perspectives, and occasionally a light touch of humor where it naturally fits the subject.
 
 **Selected Columns:**
-[View Social Columns]([./01_Social_Columns/] "کھرک" (https://www.facebook.com/share/p/19fSAy6kzG/)
-[View Social Columns]([./01_Social_Columns/] "حمیری"، "گوگو" اور میرے ادھورے کالم کا سوگ" (https://www.facebook.com/share/p/1BbEX7FDfU/)
+[View Social Columns](["کھرک" ] (https://www.facebook.com/share/p/19fSAy6kzG/)
+[View Social Columns]( "حمیری"، "گوگو" اور میرے ادھورے کالم کا سوگ" (https://www.facebook.com/share/p/1BbEX7FDfU/)
  [View Social Columns]([./01_Social_Columns/] محنت کسان کی، ترقی دوسروں کی؟ آخر کب تک؟ (https://www.facebook.com/share/p/19hi5qoFcg/)
  [View Social Columns]([./01_Social_Columns/] ماں بولی کا قصور کیا ہے؟ (https://www.facebook.com/share/p/1F9tD3cSYs/)
  [View Social Columns]([./01_Social_Columns/] school friends haj return (https://www.facebook.com/share/r/1DQ7oetKMF/)
