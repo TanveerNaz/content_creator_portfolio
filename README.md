@@ -126,8 +126,7 @@ The repository will be updated as new work is selected for inclusion.
 
 For my latest technical and professional content, please visit my:
 
-**LinkedIn:** [Add LinkedIn Profile Link]
-
+**LinkedIn:** [[Add LinkedIn Profile Link](https://www.linkedin.com/in/its-tanveer-naz)
 **Facebook:** [[Add Facebook Profile Link](https://www.facebook.com/share/194AJqKE4x/)]
 
 * 
