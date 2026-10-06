@@ -15,18 +15,18 @@ A selection of my original columns and social-commentary writing published on Fa
 These writings cover everyday observations, social topics, personal perspectives, and occasionally a light touch of humor where it naturally fits the subject.
 
 **Selected Columns:**
-[View Social Columns](["کھرک" ] (https://www.facebook.com/share/p/19fSAy6kzG/)
-[View Social Columns]([حمیری"، "گوگو" اور میرے ادھورے کالم کا سوگ"] (https://www.facebook.com/share/p/1BbEX7FDfU/)
-[View Social Columns]([محنت کسان کی، ترقی دوسروں کی؟ آخر کب تک؟] (https://www.facebook.com/share/p/19hi5qoFcg/)
-[View Social Columns]([ماں بولی کا قصور کیا ہے؟] (https://www.facebook.com/share/p/1F9tD3cSYs/)
-[View Social Columns]([school friends haj return] (https://www.facebook.com/share/r/1DQ7oetKMF/)
-[View Social Columns]([ اک سی ملنگی ڈاکو۔] (https://www.facebook.com/share/p/18eGSUbgBC/)
-[View Social Columns]([پنجاب ونڈیا جا رہیا اے تے پنجابی تماشہ ویکھ رہیا اے] (https://www.facebook.com/share/p/1Dy946Gv8b/)
-[View Social Columns]([دفتر کے دوستوں کے رشتہ داروں کی وفات پر تعزیت]  (https://www.facebook.com/share/r/1B541LSbrC/)
-[View Social Columns]([سیرتِ طیبہ اور ہمارے روزمرہ اخلاق]  (https://www.facebook.com/share/p/1DsH8rb6dN/)
-[View Social Columns]([ماڑی سی تے لڑی کیوں سی Political](https://www.facebook.com/share/p/1CiufigxG6/)
-[View Social Columns]([مفت بجلی کے یونٹس کا خاتمہ]  (https://www.facebook.com/share/p/1C7ECPy7in/)
-[View Social Columns]([کراچی سے سلیکون ویلی تک: ایک نوجوان کی کامیابی]  (https://www.facebook.com/share/p/1QvwjpAjY9/) 
+<br> [View Social Columns](["کھرک" ] (https://www.facebook.com/share/p/19fSAy6kzG/)
+<br> [View Social Columns]([حمیری"، "گوگو" اور میرے ادھورے کالم کا سوگ"] (https://www.facebook.com/share/p/1BbEX7FDfU/)
+<br> [View Social Columns]([محنت کسان کی، ترقی دوسروں کی؟ آخر کب تک؟] (https://www.facebook.com/share/p/19hi5qoFcg/)
+<br> [View Social Columns]([ماں بولی کا قصور کیا ہے؟] (https://www.facebook.com/share/p/1F9tD3cSYs/)
+<br> [View Social Columns]([school friends haj return] (https://www.facebook.com/share/r/1DQ7oetKMF/)
+<br> [View Social Columns]([ اک سی ملنگی ڈاکو۔] (https://www.facebook.com/share/p/18eGSUbgBC/)
+<br> [View Social Columns]([پنجاب ونڈیا جا رہیا اے تے پنجابی تماشہ ویکھ رہیا اے] (https://www.facebook.com/share/p/1Dy946Gv8b/)
+<br> [View Social Columns]([دفتر کے دوستوں کے رشتہ داروں کی وفات پر تعزیت]  (https://www.facebook.com/share/r/1B541LSbrC/)
+<br> [View Social Columns]([سیرتِ طیبہ اور ہمارے روزمرہ اخلاق]  (https://www.facebook.com/share/p/1DsH8rb6dN/)
+<br> [View Social Columns]([ماڑی سی تے لڑی کیوں سی Political](https://www.facebook.com/share/p/1CiufigxG6/)
+<br> [View Social Columns]([مفت بجلی کے یونٹس کا خاتمہ]  (https://www.facebook.com/share/p/1C7ECPy7in/)
+<br> [View Social Columns]([کراچی سے سلیکون ویلی تک: ایک نوجوان کی کامیابی]  (https://www.facebook.com/share/p/1QvwjpAjY9/) 
      
     
 ### 2. Visual Content
